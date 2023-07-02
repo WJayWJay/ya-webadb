@@ -6,7 +6,7 @@ A library and application for browsers to interact with Android devices via ADB.
 
 All features are working on Chrome for Android, use a C-to-C cable or run WebSockify in Termux to connect.
 
-[🚀 Online Demo](https://yume-chan.github.io/ya-webadb)
+[🚀 Online Demo](https://wjaywjay.github.io/ya-webadb)
 
 For USB connection, close Google ADB (Run `adb kill-server` in a terminal or close `adb.exe` from Task Manager) and all programs that may use ADB (e.g. Android Studio, Visual Studio, Godot Editor, etc.) before connecting.
 
